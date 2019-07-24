@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "babel": {
+    "presets": ["latest"]
+  }
+}
